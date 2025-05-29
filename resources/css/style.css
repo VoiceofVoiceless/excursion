@@ -4,11 +4,31 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Header styles */
+
 .header--main {
     font-weight: normal;
     color: white;
     font-size: 50px;
 }
+
+.header--secondary {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+
+.header--sub-header {
+    color: gray;
+    font-size: 21px;
+}
+
+.header--copyright {
+    color: gray;
+    text-align: right;
+}
+
+/* Link styles */
 
 .link--cta {
     color: aquamarine;
